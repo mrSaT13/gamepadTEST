@@ -1,0 +1,6 @@
+pygame>=2.5.0
+PyQt6>=6.6.0
+pywin32>=306
+
+# Для полной поддержки DS4/DS5 (RGB, звук, батарея):
+# pip install hidapi
